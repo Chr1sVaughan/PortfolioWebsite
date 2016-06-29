@@ -1,0 +1,12 @@
+
+body {font: 13px Helmet, Freesans, sans-serif;}
+
+
+body, select, input, textarea {color: #333;}
+
+.wrapper {
+    margin: 0 auto;
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
